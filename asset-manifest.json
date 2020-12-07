@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ikzath/amazon-clone/static/css/main.f7eb6741.chunk.css",
+    "main.js": "/ikzath/amazon-clone/static/js/main.dfa5c238.chunk.js",
+    "main.js.map": "/ikzath/amazon-clone/static/js/main.dfa5c238.chunk.js.map",
+    "runtime-main.js": "/ikzath/amazon-clone/static/js/runtime-main.b94fc28a.js",
+    "runtime-main.js.map": "/ikzath/amazon-clone/static/js/runtime-main.b94fc28a.js.map",
+    "static/js/2.82a997e2.chunk.js": "/ikzath/amazon-clone/static/js/2.82a997e2.chunk.js",
+    "static/js/2.82a997e2.chunk.js.map": "/ikzath/amazon-clone/static/js/2.82a997e2.chunk.js.map",
+    "index.html": "/ikzath/amazon-clone/index.html",
+    "precache-manifest.fd6819b975bf565249df9509f56e1d5c.js": "/ikzath/amazon-clone/precache-manifest.fd6819b975bf565249df9509f56e1d5c.js",
+    "service-worker.js": "/ikzath/amazon-clone/service-worker.js",
+    "static/css/main.f7eb6741.chunk.css.map": "/ikzath/amazon-clone/static/css/main.f7eb6741.chunk.css.map",
+    "static/js/2.82a997e2.chunk.js.LICENSE.txt": "/ikzath/amazon-clone/static/js/2.82a997e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b94fc28a.js",
+    "static/js/2.82a997e2.chunk.js",
+    "static/css/main.f7eb6741.chunk.css",
+    "static/js/main.dfa5c238.chunk.js"
+  ]
+}
